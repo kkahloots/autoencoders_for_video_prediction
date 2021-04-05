@@ -15,12 +15,6 @@ This repo is for "Autoencoders for Video Prediction" paper
 ### Convolutional Variational Autoencoder (C-VAE) 
 ![C_VAE](./pictures/models/CONV_VAE-1.png)
 
-### Convolutional Time-Distributed Autoencoder (C-TD-AE) 
-![C_TD_AE](./pictures/models/Time_CONV_AE-1.png)
-
-### Convolutional Time-Distributed Variational Autoencoder (C-TD-VAE) 
-![C_TD_VAE](./pictures/models/Time_CONV_VAE-1.png)
-
 ### Convolutional Time-Distributed/LSTM Autoencoder (C-TD-AE/C-LSTM-AE) 
 ![C_TD_AE](./pictures/models/Time_CONV_AE-1.png)
 
